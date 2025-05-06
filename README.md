@@ -2,8 +2,8 @@
 
 <img src="https://telegra.ph/file/913dc4b3fed46e44f32af.png">
 
-Brutus Dedik that are running the version of the OS Vista and above (all which supports NLA)
+运行 OS Vista 及更高版本的 Brutus Dedik（均支持 NLA）
 
-- Stable operation with a large number of streams (500 and above)
+大量流（500 及以上）稳定运行
 
-- Relatively high speed brute (depends primarily on the outgoing internet speed), in this case at a rate brute was ~ 5/5 Mbit
+相对高速的 Brute（主要取决于传出的 Internet 速度），在本例中，Brute 的速率为 ~ 5/5 Mbit
